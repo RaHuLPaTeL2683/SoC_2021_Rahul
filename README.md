@@ -7,8 +7,6 @@ For this task a tutorial from youtube is referred. Pre-trained caffe model is us
 
 Youtube Tutorial Link - https://www.youtube.com/watch?v=rZTHD-kewt8
 
-Pre-Trained Models are added in the Source Folder 
-
 ### Task 5(B4) : Age & Gender Prediction from Youtube Videos : 20 Credit
 Same pre-trained models as used in Task 4(B3) are used here also. In the main code google drive is mounted and set the location for input and output video. Some libraries are installed first and then same as previous code, they are processed and an output file is sent to the drive.
 
