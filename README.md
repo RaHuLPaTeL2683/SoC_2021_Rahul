@@ -4,7 +4,9 @@ Task Completed : Task 4(B3), Task 5(B4), Task 6(C1), Task (A12), Task (D5), Task
 
 ### Task 4(B3) : Live Age & Gender Detection : 20 Credit
 For this task a tutorial from youtube is referred. Pre-trained caffe model is used as a project module to get the age & gender prediction. In the main code pre-trained models are loaded and used directly as a variable. Live webcam feed is passes through those models and predicted results are put as a text along with square box around dectected face in the resulting cam feed. 
+
 Youtube Tutorial Link - https://www.youtube.com/watch?v=rZTHD-kewt8
+
 Pre-Trained Models are added in the Source Folder 
 
 ### Task 5(B4) : Age & Gender Prediction from Youtube Videos : 20 Credit
